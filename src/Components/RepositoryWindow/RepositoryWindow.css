@@ -1,0 +1,28 @@
+.repository-window{
+    height:100%;
+    width:40%;
+    border:1px solid black;
+    float: left;
+    box-sizing: border-box;
+    
+}
+
+.repos{
+    height:80%;
+    overflow-y: scroll;
+}
+
+.button-window{
+    height:20%;
+    border-left:1px solid black;
+    padding-left:10px;
+    padding-top:10px;
+}
+
+.add-button{
+    height:80px;
+    width:80px;
+    border:1px solid black;
+    border-radius: 100%;
+    cursor:pointer;
+}

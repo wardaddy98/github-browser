@@ -1,0 +1,39 @@
+.details-window{
+    height:100%;
+    width:60%;
+    border:2px solid black;
+    float: left;
+    box-sizing: border-box;
+    overflow-y:scroll;
+}
+
+
+    
+.details-window{
+    padding:1px;
+}
+
+.button-container{
+    padding:10px;
+}
+
+.contents{
+    border:5px solid black;
+}
+
+
+.header-commits{
+    background:black;
+    color:white;
+    padding:10px;
+}
+
+
+.commits-window{
+    border:5px solid black;
+}
+
+.back-button{
+    font-size: 2em;
+    font-weight: bold;
+}
