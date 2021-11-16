@@ -71,6 +71,7 @@ useEffect(()=>{
     })
     setRepoName(arr);
     setSelectedRepo('');
+    
 },[toDelete])
 
 
@@ -80,7 +81,6 @@ useEffect(()=>{
 const handleAddButton=()=>{
     setDisplayRepoCard(true);
 }
-
 
 
             return(

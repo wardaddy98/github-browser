@@ -143,6 +143,7 @@ const getContents=()=>{
     
  const handleDeletePress=()=>{
     setToDelete(selectedRepo);
+    setView('branches');
 }
 
 const handleBackButton=()=>{
